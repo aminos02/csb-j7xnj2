@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aminos02.github.io/csb-j7xnj2/static/css/main.383fdbca.chunk.css",
+    "main.js": "https://aminos02.github.io/csb-j7xnj2/static/js/main.b9f12d31.chunk.js",
+    "main.js.map": "https://aminos02.github.io/csb-j7xnj2/static/js/main.b9f12d31.chunk.js.map",
+    "runtime-main.js": "https://aminos02.github.io/csb-j7xnj2/static/js/runtime-main.6830379e.js",
+    "runtime-main.js.map": "https://aminos02.github.io/csb-j7xnj2/static/js/runtime-main.6830379e.js.map",
+    "static/js/2.b6eb0ec7.chunk.js": "https://aminos02.github.io/csb-j7xnj2/static/js/2.b6eb0ec7.chunk.js",
+    "static/js/2.b6eb0ec7.chunk.js.map": "https://aminos02.github.io/csb-j7xnj2/static/js/2.b6eb0ec7.chunk.js.map",
+    "index.html": "https://aminos02.github.io/csb-j7xnj2/index.html",
+    "static/css/main.383fdbca.chunk.css.map": "https://aminos02.github.io/csb-j7xnj2/static/css/main.383fdbca.chunk.css.map",
+    "static/js/2.b6eb0ec7.chunk.js.LICENSE.txt": "https://aminos02.github.io/csb-j7xnj2/static/js/2.b6eb0ec7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6830379e.js",
+    "static/js/2.b6eb0ec7.chunk.js",
+    "static/css/main.383fdbca.chunk.css",
+    "static/js/main.b9f12d31.chunk.js"
+  ]
+}
